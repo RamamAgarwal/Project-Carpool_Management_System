@@ -1,33 +1,4 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cab Pooling System for University Students</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-        h2 {
-            color: #00698f;
-        }
-        ul {
-            list-style-type: disc;
-            padding: 10px 20px;
-        }
-        li {
-            margin: 10px 0;
-        }
-        .benefits {
-            background-color: #f0f0f0;
-            padding: 20px;
-            border-radius: 10px;
-        }
-    </style>
-</head>
-<body>
-
 <h1>Cab Pooling System for University Students</h1>
 
 <h2>Problems Generally Faced While Travelling:</h2>
