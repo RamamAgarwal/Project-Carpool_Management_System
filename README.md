@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <h1>Cab Pooling System for University Students</h1>
 
-<h2>Problems Generally Faced While Travelling:</h2>
+<h2>Problems Generally Faced While Travelling</h2>
 <ul>
     <li>Students often face high cab costs for distant exams or events.</li>
     <li>Many students travel alone without knowing others going to the same destination and end up spending a lot on cabs.</li>
@@ -17,7 +17,7 @@
 <p>The C++ program written, using a database, creates a class for user data and schedules. Algorithms, including graph and backtracking, match schedules based on criteria like destination and departure time, optimizing for efficiency are used. Considerations include dropping off passengers, restricting destinations within +-2km, and prioritizing identical destinations using a database search algorithm.</p>
 <p>Once the matches are found, the people are notified via an email and contact information for each other about the possibility of sharing a cab. This is achieved by routing the output from the C++ program to an input for a python script, which would use an API service to send out the emails.</p>
 
-<h2>Benefits:</h2>
+<h2>Benefits</h2>
 <div class="benefits">
     <ul>
         <li>Connects students with shared travel routes to save money and reduce travel expenses.</li>
